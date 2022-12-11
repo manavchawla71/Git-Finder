@@ -5,7 +5,7 @@ const Feedback = () => {
     <>
     <center><h2>Give suggestions to upgrade the features</h2></center>
      
-     <form action="mailto:chawlamanav71@gmail.com">
+     <form action="mailto:chawlamanav71@yahoo.com">
   <ul>
     <li>
       <label for="name">Name:</label>
