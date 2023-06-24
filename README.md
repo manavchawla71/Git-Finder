@@ -1,6 +1,6 @@
 # GitHub Finder
 
-A small app build with React that lets you search for any GitHub user and check out his public information. This app uses the Context API for state management-
+A web app build with React that lets you search for any GitHub user and check out his public information. This app uses the Context API for state management-
 
 This application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the [Create React App documentation](https://facebook.github.io/create-react-app/docs/) for more information about the bootstrapping process and scripts create-react-app offers.
 
